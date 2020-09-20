@@ -1,0 +1,6 @@
+server:
+  port: ${port:9092}
+
+spring:
+  application:
+    name: spring-exercise
